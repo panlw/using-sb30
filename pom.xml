@@ -15,7 +15,6 @@
 	<description>Using Spring Boot V3.0</description>
 	<properties>
 		<java.version>17</java.version>
-		<spring-native.classifier>osx-aarch_64</spring-native.classifier>
 	</properties>
 	<dependencies>
 		<dependency>
